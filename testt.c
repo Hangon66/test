@@ -19,7 +19,7 @@ int Fac(int n)
 int main()
 {
 
-        
+        \\6666
     
     printf("%d\n",Fac(4));
 
