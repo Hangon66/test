@@ -19,7 +19,9 @@ int Fac(int n)
 int main()
 {
 
-        printf("%d\n",Fac(4));
+        
+    
+    printf("%d\n",Fac(4));
 
     
     
